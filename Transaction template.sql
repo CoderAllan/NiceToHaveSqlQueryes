@@ -1,4 +1,4 @@
-USE BrokerServices
+/* This can be used as a teplate for your sql statements if you need to wrap it in a trancasaction */
 
 BEGIN TRANSACTION
 BEGIN TRY

@@ -1,4 +1,4 @@
-/* Check partition details and rows per partition.sql */
+/* Check partition details and rows per partition */
 
 DECLARE @tableName NVARCHAR(255) = 'MyTable';
 
@@ -45,4 +45,3 @@ SELECT pf.name AS pf_name,
           ps.name,
           si.object_id,
           rv.value
-

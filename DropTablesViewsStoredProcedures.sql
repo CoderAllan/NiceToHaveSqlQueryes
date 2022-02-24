@@ -1,4 +1,5 @@
-/* Drop all tables views and stored procedures.sql */
+/* Drop all tables views and stored procedures */
+/* WARNING: Don't bring this code anywhere near your production database. This sql code will remove all tables from you database */
 
 DECLARE @Sql NVARCHAR(500) DECLARE @Cursor CURSOR
 

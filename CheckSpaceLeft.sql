@@ -1,4 +1,4 @@
-/* Check how much space is left in sql database.sql */
+/* Check how much space is left in sql database */
 
 SELECT DS.name [FileGroupName],
        DF.name [FileName],

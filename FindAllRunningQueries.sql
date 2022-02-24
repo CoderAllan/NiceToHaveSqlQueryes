@@ -1,4 +1,4 @@
-
+/* Fin all running queries */
 
 SELECT sqltext.TEXT,
        req.session_id,

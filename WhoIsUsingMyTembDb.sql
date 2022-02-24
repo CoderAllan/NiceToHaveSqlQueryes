@@ -1,3 +1,4 @@
+/* Query for inforation about what queries are using the tmpdb */
 
 USE tempdb;
 

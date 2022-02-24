@@ -1,4 +1,4 @@
-/* Check index usage.sql */
+/* Check index usage */
 
 SELECT OBJECT_NAME(S.[OBJECT_ID]) AS [OBJECT NAME],
        I.[NAME] AS [INDEX NAME],

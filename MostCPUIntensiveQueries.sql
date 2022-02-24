@@ -1,4 +1,4 @@
-/* Track most CPU intensive sql scripts.sql */
+/* Track most CPU intensive sql scripts */
 
 SELECT
        SUBSTRING(qt.TEXT, (qs.statement_start_offset/2)+1,
